@@ -24,6 +24,7 @@ Minecraft client focused on boosting FPS and enhancing the PvP experience.
 ## Languages
 
 <img alt="Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
+<img alt="C++" width"35" src"https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1280px-ISO_C%2B%2B_Logo.svg.png"/>
 
 ---
 
