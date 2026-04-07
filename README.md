@@ -23,8 +23,8 @@ Minecraft client focused on boosting FPS and enhancing the PvP experience.
 
 ## Languages
 
-<img alt="Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-<img alt="C++" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img alt="Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/><img alt="C++" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+
 
 ---
 
