@@ -46,8 +46,4 @@ A specialized Minecraft client designed to maximize FPS performance and optimize
   <img alt="Windows" title="Windows" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"/>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1nxfpdev&show_icons=true&theme=tokyonight" alt="1nxfpdev's GitHub stats" />
-</p>
