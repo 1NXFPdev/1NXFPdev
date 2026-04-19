@@ -16,7 +16,7 @@
 ## Projects
 
 ### [Scopeclient](https://scopeclient.org)
-A specialized Minecraft client designed to maximize FPS performance and optimize the PvP experience through custom enhancements.
+A Minecraft PVP Client designed to drastically improve performance and QoL
 
 ---
  
