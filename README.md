@@ -24,7 +24,6 @@ A Minecraft PVP Client designed to drastically improve performance and QoL
 ### Languages
 <p align="left">
   <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"/>
-  <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
 </p>
 
 ### Development tools
